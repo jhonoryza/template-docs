@@ -7,38 +7,73 @@ category: Guia
 
 Si eres más visual, aquí una lista de videos para implementar este paquete.
 
-## 🍿 Registrar usuarios
+<div class="flex text-gray-900 my-4 py-4 border-t-2 border-b-2 border-gray-300">
+    <span class="px-2 py-1 bg-blue-200 text-blue-700 font-semibold rounded-full text-sm mr-2">
+        Passport
+    </span>
+    <div class="font-semibold">
+        Autenticación con Passport Parte 1.
+    </div>
+</div>
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/tRZtmR6Qhgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul class="ml-4 text-sm tracking-tight">
+    <li class="disc-item">
+        Registrar usuarios, Login, Logout y verificación de emails basica 
+    </li>
+</ul>
 
-## 🍿 Inicia sesión
+<iframe class="shadow-xl rounded-lg mb-20" style="width: 100%;" height="315" src="https://www.youtube.com/embed/Ca2hhJdbQbg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/Yf_E1XK_S-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 🍿 Cerrar sesión
+<div class="flex text-gray-900 my-4 py-4 border-t-2 border-b-2 border-gray-300">
+    <span class="px-2 py-1 bg-blue-200 text-blue-700 font-semibold rounded-full text-sm mr-2">
+        Passport
+    </span>
+    <div class="font-semibold">
+        Autenticación con Laravel Passport Parte 2.
+    </div>
+</div>
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/vInYm2H_NG4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul class="ml-4 text-sm tracking-tight">
+    <li class="disc-item">
+        - Verificación de emails avanzada, restablecer contraseña y verificación de contraseña.
+    </li>
+</ul>
 
-## 🍿 Personaliza el registro e inicio de sesión
+<iframe class="shadow-xl rounded-lg mb-20" style="width: 100%" height="315" src="https://www.youtube.com/embed/XiL9CDNBFik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/6DsP8Jys3G0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 🍿 Registro de usuarios + Verificación de email
+<div class="flex text-gray-900 my-4 py-4 border-t-2 border-b-2 border-gray-300">
+    <span class="px-2 py-1 bg-green-200 text-green-700 font-semibold rounded-full text-sm mr-2">
+        Sanctum
+    </span>
+    <div class="font-semibold">
+        Autenticación con Laravel Sanctum Parte 1.
+    </div>
+</div>
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/yQHDatfJI6Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul class="ml-4 text-sm tracking-tight">
+    <li class="disc-item">
+        - Registrar usuarios, Login, Logout y verificación de emails basica
+    </li>
+</ul>
 
-## 🍿 Verificación de email + middleware verified
+<iframe class="shadow-xl rounded-lg mb-20" style="width: 100%" height="315" src="https://www.youtube.com/embed/49xUnmv_hrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/cQc4nFLNxsM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 🍿 Restablecer contraseña
+<div class="flex text-gray-900 my-4 py-4 border-t-2 border-b-2 border-gray-300">
+    <span class="px-2 py-1 bg-green-200 text-green-700 font-semibold rounded-full text-sm mr-2">
+        Sanctum
+    </span>
+    <div class="font-semibold">
+        Autenticación con Laravel Sanctum Parte 2.
+    </div>
+</div>
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/hEoqL0MHRp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<ul class="ml-4 text-sm tracking-tight">
+    <li class="disc-item">
+        - Verificación de emails avanzada, restablecer contraseña y verificación de contraseña
+    </li>
+</ul>
 
-## 🍿 Verificación de contraseña
-
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/TknBvDiamkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## 🍿 Autenticación usando Laravel Sanctum
-
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/VGBOukJbzFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="shadow-xl rounded-lg mb-20" style="width: 100%" height="315" src="https://www.youtube.com/embed/wsDWRDjGfUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
