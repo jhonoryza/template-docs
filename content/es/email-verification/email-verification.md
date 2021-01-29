@@ -31,7 +31,7 @@ Puedes utilizar postman para probar el endpoint.
 
 ## Ejemplo en postman
 
-![Here a postman image to instruct how to send a request to register a user](/images/postman-email-verification-notification-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-email-verification-notification-screenshot.png)
 
 ## 🍿 Verificación de correo electrónico
 

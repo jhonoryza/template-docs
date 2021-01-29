@@ -31,7 +31,7 @@ Los campos obligatorios son:
 
 ## Ejemplo en postman
 
-![Here a postman image to instruct how to send a request to register a user](/images/postman-forgot-password-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-forgot-password-screenshot.png)
 
 ## Definir un enlace para la notificación de restablecimiento de contraseña
 

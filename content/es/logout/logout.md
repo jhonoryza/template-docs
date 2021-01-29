@@ -29,7 +29,7 @@ Este endpoint no requiere ningún campo.
 
 ## Ejemplo en postman
 
-![Here a postman image to instruct how to send a request to register a user](/images/postman-logout-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-logout-screenshot.png)
 
 ## 🍿 Cerrar sesión
 

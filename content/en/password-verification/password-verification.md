@@ -33,7 +33,7 @@ You can use postman to test the endpoint.
 
 ## Postman example
 
-![Here a postman image to instruct how to send a request to register a user](/images/postman-confirm-password-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-confirm-password-screenshot.png)
 
 ## 🍿 Using password verification feature video tutorial
 

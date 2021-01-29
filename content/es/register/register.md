@@ -32,7 +32,7 @@ Puedes utilizar postman para testear el endpoint.
 
 ## Ejemplo con postman
 
-![Here a postman image to instruct how to send a request to register a user](/images/postman-register-user-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-register-user-screenshot.png)
 
 ## 🍿 Registrar de usuario
 

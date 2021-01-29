@@ -31,7 +31,7 @@ You can use postman to test the endpoint.
 
 ## Postman example
 
-![Here a postman image to instruct how to send a request to register a user](/images/postman-email-verification-notification-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-email-verification-notification-screenshot.png)
 
 ## 🍿 Using email verification feature video tutorial
 
