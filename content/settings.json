@@ -1,0 +1,11 @@
+{
+  "title": "Json Api Auth Documentation",
+  "url": "",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "ArielMejiaDev",
+  "twitter": "https://github.com/ArielMejiaDev/json-api-auth",
+  "defaultBranch": "master"
+}
