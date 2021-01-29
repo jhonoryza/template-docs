@@ -5,7 +5,7 @@
     "light": "/json-api-auth-docs/logo-light.svg",
     "dark": "/json-api-auth-docs/logo-dark.svg"
   },
-  "github": "ArielMejiaDev",
-  "twitter": "https://github.com/ArielMejiaDev/json-api-auth",
+  "github": "https://github.com/ArielMejiaDev/json-api-auth",
+  "twitter": "https://twitter.com/ArielMejiaDev",
   "defaultBranch": "master"
 }
