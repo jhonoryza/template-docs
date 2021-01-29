@@ -34,6 +34,6 @@ You can use postman to test the endpoint.
 
 ![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-register-user-screenshot.png)
 
-## 🍿 Register a user video tutorial
+## 🍿 Register a user
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/yrKTAUezkkQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/tRZtmR6Qhgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

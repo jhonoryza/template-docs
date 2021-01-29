@@ -42,7 +42,7 @@ Puedes utilizar postman para testear los endpoints.
 
 ## 🍿 Restablecer contraseña
 
-<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/yrKTAUezkkQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width: 100%" height="315" src="https://www.youtube.com/embed/hEoqL0MHRp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Personalizar el flujo de trabajo de restablecimiento de contraseña
 
