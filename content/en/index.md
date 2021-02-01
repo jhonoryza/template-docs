@@ -2,7 +2,7 @@
 title: JSON API Auth Package for Laravel
 description: ''
 position: 1
-category: 
+category: ''
 features:
   - User registration
   - Login
