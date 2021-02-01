@@ -2,10 +2,10 @@
   "title": "Json Api Auth Documentation",
   "url": "",
   "logo": {
-    "light": "/json-api-auth-docs/logo-light.svg",
-    "dark": "/json-api-auth-docs/logo-dark.svg"
+    "light": "/logo-light.png",
+    "dark": "/logo-dark.png"
   },
-  "github": "https://github.com/ArielMejiaDev/json-api-auth",
-  "twitter": "https://twitter.com/ArielMejiaDev",
+  "github": "ArielMejiaDev/json-api-auth",
+  "twitter": "ArielMejiaDev",
   "defaultBranch": "master"
 }
