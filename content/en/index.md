@@ -1,8 +1,8 @@
 ---
-title: Introduction
+title: JSON API Auth Package
 description: ''
 position: 1
-category: ''
+category: 
 features:
   - User registration
   - Login
