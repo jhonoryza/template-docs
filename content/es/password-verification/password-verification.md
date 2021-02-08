@@ -33,7 +33,7 @@ Puede utilizar postman para probar el endpoint.
 
 ## Ejemplo en postman
 
-![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-confirm-password-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/images/postman-confirm-password-screenshot.png)
 
 ## 🍿 Verificación de contraseña
 

@@ -31,7 +31,7 @@ Fields required are:
 
 ## Postman example
 
-![Here a postman image to instruct how to send a request to register a user](/json-api-auth-docs/images/postman-forgot-password-screenshot.png)
+![Here a postman image to instruct how to send a request to register a user](/images/postman-forgot-password-screenshot.png)
 
 ## Define a link for reset password notification
 
