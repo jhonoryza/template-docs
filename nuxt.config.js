@@ -10,19 +10,5 @@ export default theme({
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }
     ]
-  },
-  i18n: {
-    locales: () => [{
-      code: 'es',
-      iso: 'en-Es',
-      file: 'es-ES.js',
-      name: 'Español'
-    }, {
-      code: 'en',
-      iso: 'en-US',
-      file: 'en-US.js',
-      name: 'English'
-    }],
-    defaultLocale: 'en'
   }
 })
